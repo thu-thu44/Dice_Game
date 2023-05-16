@@ -1,0 +1,7 @@
+dice_list = [
+"./images.dice1.png",
+"./images.dice2.png",
+"./images.dice3.png",
+"./images.dice4.png",
+"./images.dice5.png",
+"./images.dice16.png"]
